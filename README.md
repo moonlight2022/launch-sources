@@ -4,7 +4,8 @@
 
 **130 个公开信源，用来看新站发布和工具目录。**
 
-由范师傅（[@fanshifu](https://x.com/FanShifu)）整理。
+由范师傅（[@fanshifu](https://x.com/FanShifu)）整理。转至生财：
+Grok Bot 搭建出海新站监控：每天扒 800+新站，吃透同行玩法（附130 个信源渠道），https://scys.com/articleDetail/xq_topic/14425121812258552
 
 整理日期：2026-11-03。共 130 条。这是一份快照，不会自动更新。
 
